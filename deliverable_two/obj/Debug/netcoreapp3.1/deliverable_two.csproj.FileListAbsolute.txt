@@ -1,0 +1,13 @@
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\bin\Debug\netcoreapp3.1\deliverable_two.exe
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\bin\Debug\netcoreapp3.1\deliverable_two.deps.json
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\bin\Debug\netcoreapp3.1\deliverable_two.runtimeconfig.json
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\bin\Debug\netcoreapp3.1\deliverable_two.runtimeconfig.dev.json
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\bin\Debug\netcoreapp3.1\deliverable_two.dll
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\bin\Debug\netcoreapp3.1\deliverable_two.pdb
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\obj\Debug\netcoreapp3.1\deliverable_two.csprojAssemblyReference.cache
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\obj\Debug\netcoreapp3.1\deliverable_two.AssemblyInfoInputs.cache
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\obj\Debug\netcoreapp3.1\deliverable_two.AssemblyInfo.cs
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\obj\Debug\netcoreapp3.1\deliverable_two.csproj.CoreCompileInputs.cache
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\obj\Debug\netcoreapp3.1\deliverable_two.dll
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\obj\Debug\netcoreapp3.1\deliverable_two.pdb
+C:\Users\Raff\source\prework\deliverable_two\deliverable_two\obj\Debug\netcoreapp3.1\deliverable_two.genruntimeconfig.cache
