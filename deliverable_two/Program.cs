@@ -5,22 +5,22 @@ namespace deliverable_two
     class Program
     {
         /*
-           Grading Rubric: This is graded out of 10 points. You must score 8 or more points
-           on each deliverable in Lab 1 to pass.
-           1 point each. No partial credit is allowed on an individual point. Credit will be
-           granted for any points that are written correctly themselves but don’t run correctly
-           because of a problem elsewhere in the program.
-           1. Correctly gets user input from the console.
-           2. Stores first user input in a variable named headsOrTailsGuess.
-           3. Stores second user input in a numeric variable named numberOfFlips.
-           4. Loops the correct number of times.
-           5. Generates random numbers each time.
-           6. Correctly generates and displays a random heads or tails each time.
-           7. Adds to correctCount accurately.
-           8. Displays the user choice at the end (either heads or tails).
-           9. Displays the correct count at the end.
-           10.Displays the correct percentage at the end.        
-        */
+         Grading Rubric: This is graded out of 10 points. You must score 8 or more points
+        on each deliverable in Lab 1 to pass.
+        1 point each. No partial credit is allowed on an individual point. Credit will be
+        granted for any points that are written correctly themselves but don’t run correctly
+        because of a problem elsewhere in the program.
+        1. Correctly gets user input from the console.
+        2. Stores first user input in a variable named headsOrTailsGuess.
+        3. Stores second user input in a numeric variable named numberOfFlips.
+        4. Loops the correct number of times.
+        5. Generates random numbers each time.
+        6. Correctly generates and displays a random heads or tails each time.
+        7. Adds to correctCount accurately.
+        8. Displays the user choice at the end (either heads or tails).
+        9. Displays the correct count at the end.
+        10.Displays the correct percentage at the end.        
+         */
 
         static void Main(string[] args)
         {
@@ -37,7 +37,7 @@ namespace deliverable_two
             userInput = Console.ReadLine();
             bool sucess = int.TryParse(userInput, out numberOfFlips);
 
-            for (int i = 1; i <= numberOfFlips; i++)
+            for (int i = 0; i < numberOfFlips; i++)
             {
                 int resultOfFlip = coinFlip.Next(1, 3);
 
