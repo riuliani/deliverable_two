@@ -65,8 +65,10 @@ namespace deliverable_two
             int correctPercetage = (int)Math.Round((double)(100 * correctCount)) / numberOfFlips;
             
 
-            Console.WriteLine($"You guess was {headsOrTailGuess}. In the {numberOfFlips} times the coin was flipped, {headsOrTailGuess} came up {correctCount}" + "\r\n" +
+            Console.WriteLine($"Your guess was {headsOrTailGuess}. In the {numberOfFlips} times the coin was flipped, {headsOrTailGuess} came up {correctCount} times." + "\r\n" +
                 $"You were correct {correctPercetage}% of the times.");
+
+            Console.ReadKey();
         }
     }
 }
